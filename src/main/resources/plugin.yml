@@ -1,0 +1,7 @@
+main: me.pesekjak.bitshift.Bitshift
+name: Bitshift
+description: Skript addon for more operators
+version: 1.0
+api-version: 1.13
+authors: [Pesek]
+softdepend: [Skript]
